@@ -58,7 +58,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats-beta-wheat-51.vercel.app/api?username=threads-mod&show_icons=true" />
+  <img src="https://github-readme-stats-threads-mod.vercel.app/api?username=threads-mod&show_icons=true&include_all_commits=true&theme=tokyonight" /> <br/>
+  <img src="https://github-readme-stats-threads-mod.vercel.app/api/top-langs/?username=threads-mod&theme=tokyonight" />
 </div>
 
 <!--
